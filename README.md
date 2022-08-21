@@ -2,7 +2,7 @@
 
 The `raw-data` directory contains roster data of the 32 NFL teams starting from 1996 to 2021. 2 exceptions are the teams htx and cle, starting from 2002 and 1999 respectively.
 
-Data is collected from [Pro Football League](pro-football-reference.com)
+Data is collected from [Pro Football League](https://www.pro-football-reference.com)
 
 Each file in raw data is in the format `[team-initial][year].csv`
 
@@ -25,9 +25,9 @@ The 32 team initials are the following:
  
 |Name|Abbreviation|Conference|Division|
 | :----: | :----: | :----: | :----: |
-|Arizona Cardinals|ARI|NFC|West|
+|Arizona Cardinals|CRD|NFC|West|
 |Atlanta Falcons|ATL|NFC|South|
-|Baltimore Ravens|BAL|AFC|North|
+|Baltimore Ravens|RAV|AFC|North|
 |Buffalo Bills|BUF|AFC|East|
 |Carolina Panthers|CAR|NFC|South|
 |Chicago Bears|CHI|NFC|North|
@@ -36,24 +36,24 @@ The 32 team initials are the following:
 |Dallas Cowboys|DAL|NFC|East|
 |Denver Broncos|DEN|AFC|West|
 |Detroit Lions|DET|NFC|North|
-|Green Bay Packers|GB|NFC|North|
+|Green Bay Packers|GNB|NFC|North|
 |Houston Texans|HTX|AFC|South|
 |Indianapolis Colts|CLT|AFC|South|
 |Jacksonville Jaguars|JAX|AFC|South|
-|Kansas City Chiefs|KC|AFC|West|
+|Kansas City Chiefs|KAN|AFC|West|
 |Miami Dolphins|MIA|AFC|East|
 |Minnesota Vikings|MIN|NFC|North|
 |New England Patriots|NWE|AFC|East|
-|New Orleans Saints|NO|NFC|South|
+|New Orleans Saints|NOR|NFC|South|
 |NY Giants|NYG|NFC|East|
 |NY Jets|NYJ|AFC|East|
-|Las Vegas Raiders|LV|AFC|West|
+|Las Vegas Raiders|RAI|AFC|West|
 |Philadelphia Eagles|PHI|NFC|East|
 |Pittsburgh Steelers|PIT|AFC|North|
-|Los Angeles Chargers|LAC|AFC|West|
-|San Francisco 49ers|SF|NFC|West|
+|Los Angeles Chargers|SDG|AFC|West|
+|San Francisco 49ers|SFO|NFC|West|
 |Seattle Seahawks|SEA|NFC|West|
-|Los Angeles Rams|LAR|NFC|West|
-|Tampa Bay Buccaneers|TB|NFC|South|
+|Los Angeles Rams|RAM|NFC|West|
+|Tampa Bay Buccaneers|TAM|NFC|South|
 |Tennessee Titans|OTI|AFC|South|
 |Washington Football Team|WAS|NFC|East|
